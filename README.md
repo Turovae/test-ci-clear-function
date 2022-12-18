@@ -20,3 +20,5 @@
 Сгенерируйте проект на базе `npm`. Подключите туда `jest` и напишите авто-тесты, которые обеспечивают 100% покрытие вашей функции по строкам.
 
 Убедитесь, что вы обеспечили 100% покрытие тестами.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/veeyp2l6outbag6g?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-clear-function)
