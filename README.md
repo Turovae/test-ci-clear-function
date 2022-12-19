@@ -21,4 +21,13 @@
 
 Убедитесь, что вы обеспечили 100% покрытие тестами.
 
+---
+## Ссылки на выполненные задачи блока Unit-тестирование
+
+1. [Чистые функции](https://github.com/Turovae/test-ci-clear-function)
+2. [Matchers](https://github.com/Turovae/test-ci-matchers)
+3. [Mocking](https://github.com/Turovae/test-ci-mocking)
+
+---
+
 [![Build status](https://ci.appveyor.com/api/projects/status/veeyp2l6outbag6g?svg=true)](https://ci.appveyor.com/project/Turovae/test-ci-clear-function)
